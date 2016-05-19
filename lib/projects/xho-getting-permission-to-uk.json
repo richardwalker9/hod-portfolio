@@ -7,11 +7,11 @@
     "location": "London",
     "phase":"backlog",
     "sro":"TBC",
-    "service_man":"TBC",
+    "service_man":"Rebecca Collings and Anne Webber",
     "facing":"external",
     "phase-history":{
   "discovery": [
-    {"label":"Expected start date", "date": "May 2016"}
+    {"label":"Started", "date": "May 2016"}
   ]
 },
   "priority":"Top"
