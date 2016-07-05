@@ -6,18 +6,18 @@
     "theme" : "Getting permissions to do something",
     "location": "London",
     "phase":"beta",
-    "sro":"Derek Hobbs",
-    "service_man":"Pete Desmond",
+    "sro":"Philip Duffy",
+    "service_man":"Chris Rutherford",
     "phase-history":{
   "discovery": [
-    {"label":"Completed", "date": "September 2012"}
+    {"label":"Completed", "date": "April 2015"}
   ],
       "alpha": [
-    {"label":"Completed", "date": "December 2012"}
+    {"label":"Completed", "date": "September 2015"}
   ],
       "beta": [
-    {"label":"Private beta completed", "date": "July 2013"},
-    {"label":"Public beta released", "date": "October 2013"}
+    {"label":"Private beta completed", "date": "November 2015"},
+    {"label":"Public beta released", "date": "February 2016"}
   ]
 },
   "priority":"Top",
