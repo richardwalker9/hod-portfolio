@@ -1,24 +1,23 @@
 {
   "id":51,
   "name":"HODAC Single Interface",
-  "description": "A way to search the products offered by the Home Office Data Analytics Project.",
+  "description": "A way to search the products offered by the Home Office Data Analytics Project",
   "directorate": "Cross Home Office",
     "theme" : "Monitoring, searching and anlysing data",
   "location": "Croydon",
   "phase":"alpha",
-  "sro":"John Fundry",
-  "service_man":"Graham Cassidy ",
+  "sro":"David Pennant",
+  "service_man":"Victoria Pullen",
   "phase-history":{
     "discovery": [
-      {"label":"Completed", "date": "April 2015"}
+      {"label":"Completed", "date": "June 2015"}
     ],
     "alpha": [
-      {"label":"Completed", "date": "September 2015"}
+      {"label":"Completed", "date": "October 2015"}
     ],
     "beta": [
-      {"label":"Started", "date": "October 2015"},
-      {"label":"Private beta Started", "date": "March 2016"},
-      {"label":"Public beta predicted", "date": "May 2016"}
+      {"label":"Private beta completed", "date": "January 2016"},
+      {"label":"Public beta released", "date": "March 2016"}
     ]
   },
   "priority":"Top",
