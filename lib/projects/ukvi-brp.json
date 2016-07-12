@@ -10,10 +10,10 @@
   "service_man":"Phillip Smith",
   "phase-history":{
     "discovery": [
-      {"label":"Completed", "date": ""}
+      {"label":"Completed", "date": "April 2015"}
     ],
     "alpha": [
-      {"label":"Completed", "date": ""}
+      {"label":"Completed", "date": "May 2015"}
     ],
     "beta": [
       {"label":"Private beta completed", "date": "August 2015"},
