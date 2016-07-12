@@ -1,25 +1,27 @@
 {
   "id":71,
-  "name":"Issues with Biometric Residence Permits (BRP)",
-  "description": "Lets users apply for a short-term cash loan so that they can afford to buy essential items or services.",
+  "name":"Biometric Residence Permits inquiries",
+  "description": "An online form for anyone with a Biometric Residence Permit (BRP) to report a problem, like loss, theft, or incorrect details.",
   "directorate": "UKVI",
   "location": "London",
     "theme" : "TBC",
-  "phase":"beta",
-  "sro":"Derek Hobbs",
-  "service_man":"Zoe Gould",
+  "phase":"Live",
+  "sro":"",
+  "service_man":"Phillip Smith",
   "phase-history":{
     "discovery": [
-      {"label":"Completed", "date": "May 2015"}
+      {"label":"Completed", "date": ""}
     ],
     "alpha": [
-      {"label":"Completed", "date": "November 2015"}
+      {"label":"Completed", "date": ""}
     ],
     "beta": [
-      {"label":"Started", "date": "November 2015"},
-      {"label":"Private beta started", "date": "February 2016"},
-      {"label":"Public beta predicted", "date": "May 2016"}
-    ]
+      {"label":"Private beta completed", "date": "August 2015"},
+      {"label":"Public beta completed", "date": "January 2016"}
+    ],
+          "live": [
+    {"label":"Live release", "date": "July 2016"}
+  ]
   },
   "priority":"Low",
   "prototype":"http://bud-loans.herokuapp.com/"
