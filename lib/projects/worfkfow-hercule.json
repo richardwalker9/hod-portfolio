@@ -10,14 +10,13 @@
     "service_man":"Phil Ramdean",
     "phase-history":{
   "discovery": [
-    {"label":"Completed", "date": ""}
+    {"label":"Completed", "date": "January 2016"}
   ],
       "alpha": [
     {"label":"Completed", "date": "April 2016"}
   ],
       "beta": [
-    {"label":"Private beta", "date": "Estimated start date Octover 2016"},
-    {"label":"Public beta released", "date": "October 2013"}
+    {"label":"Private beta", "date": "Estimated start date October 2016"}
   ]
 },
   "priority":"Top",
